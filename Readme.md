@@ -4,6 +4,7 @@
 *  03_single_instance: 单例模式
 *  04_prototype: 原型模式
 *  05_builder： 建造者模式
+*  06_bridge: 桥接模式
 *  08_proxy：代理模式
 *  13_observe: 观察者模式
 
